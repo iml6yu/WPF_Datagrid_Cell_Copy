@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridView行选复制单元格", "GridView行选复制单元格.csproj", "{C49FBF9E-6F83-4019-956F-C07FDFBB44B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49FBF9E-6F83-4019-956F-C07FDFBB44B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49FBF9E-6F83-4019-956F-C07FDFBB44B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49FBF9E-6F83-4019-956F-C07FDFBB44B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49FBF9E-6F83-4019-956F-C07FDFBB44B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5DF16B7-0087-4BEE-A9EE-70684CFE0245}
+	EndGlobalSection
+EndGlobal
